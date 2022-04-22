@@ -7,19 +7,23 @@ Lately, I've been involved in developing models for the identification of predic
 
 More details about my work, packages, tutorials
 
-
 ### Work experience
 
-- Part time ML engineer at Inflammatix
-- Intern at Inflammatix
-- ML Tutor at Cambridge Spark
+#### Part time ML engineer at Inflammatix
+I currently work as ML engineer on Representation Learning and generative models such as Variational AutoEncoders
+
+#### Intern at Inflammatix
+Interned in summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer
+
+#### ML Learning Tutor at Cambridge Spark
+ML Tutor at Cambridge Spark
 
 - Summer School at Oxford
 - Summer School at MILA and CIFA
 
-## Posters and talks
-- add poster for ISMB
-- 
+### Posters and talks
+- Poster Conference at ISMB
+- William Harvey Research Institute - Poster
 
 
 ### Projects
