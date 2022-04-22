@@ -9,14 +9,14 @@ More details about my work, packages, tutorials
 
 ### Work experience
 
-#### Part time ML engineer at Inflammatix
-I currently work as ML engineer on Representation Learning and generative models such as Variational AutoEncoders
+#### Part-time ML engineer at Inflammatix (USA)
+I currently work as Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
-#### Intern at Inflammatix
-Interned in summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer
+#### Intern at Inflammatix (USA)
+Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My worked focused on the development of a framework to harmonise different data types together.
 
 #### ML Learning Tutor at Cambridge Spark
-ML Tutor at Cambridge Spark
+I tutor various ML courses at Cambridge Spark including: "Introduction to ML", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles models", "Data visualisation".
 
 - Summer School at Oxford
 - Summer School at MILA and CIFA
@@ -29,7 +29,9 @@ ML Tutor at Cambridge Spark
 ### Projects
 
 - Explainable AI project with publication link
-- Enrich Omics
+
+- Created a [package called EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs and to get quick results without having to copy paste lists of genes or proteins from and to their website.
+
 - Tutorial for cluster
 
 
