@@ -9,25 +9,28 @@ More details about my work, packages, tutorials
 
 - Part time ML engineer at Inflammatix
 - Intern at Inflammatix
+- ML Tutor at Cambridge Spark
 
 - Summer School at Oxford
-- Summer School at MILA and CIFAR
+- Summer School at MILA and CIFA
 
 ## Posters and talks
-
-
-
+- add poster for ISMB
+- 
 
 
 ### Projects
 
+- Explainable AI project with publication link
 - Enrich Omics
 - Tutorial for cluster
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contacts
+
+- Linkedin
+- Turing website
+- QMUL
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
