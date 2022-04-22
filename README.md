@@ -4,9 +4,6 @@ Hey there! I'm a third year PhD student at the Alan Turing Institute using Machi
 I'm interested in using computational methods to understand the pathophysiology of immune-driven diseases and to identify possible theraputic targets. 
 Lately, I've been involved in developing models for the identification of predictive biomarkers.   
 
-
-More details about my work, packages, tutorials
-
 ### Work experience
 
 #### Part-time ML engineer at Inflammatix (USA)
@@ -28,11 +25,11 @@ I tutor various ML courses at Cambridge Spark including: "Introduction to ML", "
 
 ### Projects
 
-- Explainable AI project with publication link
+- Created a [package called EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs and to get quick results without having to copy paste lists of genes or proteins from and to their website. (2022) 
 
-- Created a [package called EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs and to get quick results without having to copy paste lists of genes or proteins from and to their website.
+- Project on Explainable AI: [Communicating high-street bakery sales predictions using counterfactual explanations](https://zenodo.org/record/5562660#.YmLkSS8w2RY) (2021)
 
-- Tutorial for cluster
+- [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020)
 
 
 ### Contacts
