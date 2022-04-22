@@ -1,19 +1,25 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/saramasarone/saramasarone.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hey there! I'm a third year PhD student at the Alan Turing Institute working using Machine Learning to understand the immunology of trauma.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More details about my work, packages, tutorials
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work experience
 
-```markdown
-Syntax highlighted code block
+- Part time ML engineer at Inflammatix
+- Intern at Inflammatix
 
-# Header 1
-## Header 2
-### Header 3
+- Summer School at Oxford
+- Summer School at MILA and CIFAR
+
+## Posters and talks
+
+
+
+
+
+# Header 3
 
 - Bulleted
 - List
