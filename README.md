@@ -1,6 +1,9 @@
 ## About me
 
-Hey there! I'm a third year PhD student at the Alan Turing Institute working using Machine Learning to understand the immunology of trauma.
+Hey there! I'm a third year PhD student at the Alan Turing Institute using Machine Learning to understand the hyperacute window in trauma.
+I'm interested in using computational methods to understand the pathophysiology of immune-driven diseases and to identify possible theraputic targets. 
+Lately, I've been involved in developing models for the identification of predictive biomarkers.   
+
 
 More details about my work, packages, tutorials
 
