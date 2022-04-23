@@ -1,6 +1,6 @@
 ## About me
 
-Hey there! I'm a third year PhD student at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My work entails the use of Machine Learning to understand what goes wrong in the immune system of trauma patients. More broadly, I'm interested in using data driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases.
+Hey there! I'm a third year PhD student at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My work entails the use of Machine Learning to understand what goes happens in the immune system of some trauma patients and why it gets dysregulated. More broadly, I'm interested in using data driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases.
 Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and Prof Pennington (https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
 ## Work experience
@@ -16,7 +16,6 @@ Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambri
 
 #### ML Summer School at Oxford (2020)
 #### Deep Learning Summer School at MILA and CIFAR (2020)
-Selected among many applicants (acceptance rate is about 5%)
 
 ### Posters and talks
 - Poster presentation at [ISMB/ECCB] (https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
@@ -35,7 +34,7 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 1. Which features are predictive of sales (i.e. orders placed to the warehouse)?
 2. Powerful predictive models are often difficult to interpret. Can we explain which features are important to a business owner?
 
-- [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020)
+- [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020) Developed a tutorial to help other researchers at QMUL to use array jobs on the cluster and speed up their analyses.
 
 
 ### Contacts
