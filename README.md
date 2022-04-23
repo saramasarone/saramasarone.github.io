@@ -9,11 +9,10 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 **Intern at Inflammatix (USA):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
-#### ML Learning Tutor at Cambridge Spark
-Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en) including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
+**ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored various Machine Learning courses at Cambridge Spark including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
 
-#### ML Summer School at Oxford (2020)
-#### Deep Learning Summer School at MILA and CIFAR (2020)
+**ML Summer School at Oxford (2020)** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
+**Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
 
 ### Posters and talks
 - Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
