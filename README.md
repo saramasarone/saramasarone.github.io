@@ -1,11 +1,11 @@
 ## About me
 
-Hey there! I'm a third year PhD student at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My work entails the use of Machine Learning to understand what goes happens in the immune system of some trauma patients and why it gets dysregulated. More broadly, I'm interested in using data driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases.
-Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington] (https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
+Hey there! I'm a third year PhD student at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My work entails the use of Machine Learning to understand the immune system of trauma patients in order to provide treatment when it gets dysregulated. More broadly, I'm interested in using data driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases.
+Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington](https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
 ## Work experience
 
-*Part-time ML engineer at [Inflammatix](https://inflammatix.com/ml/) (USA):* I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
+*Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (USA):* I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
 #### Intern at Inflammatix (USA)
 Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
@@ -17,12 +17,12 @@ Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambri
 #### Deep Learning Summer School at MILA and CIFAR (2020)
 
 ### Posters and talks
-- Poster presentation at [ISMB/ECCB] (https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
+- Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
 
-### Projects
+### Other Projects
 
 - Created a [package called EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
