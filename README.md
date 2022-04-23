@@ -1,26 +1,26 @@
 ## About me
 
-Hey there! I'm a third year PhD student at the Alan Turing Institute using Machine Learning to understand the hyperacute window in trauma.
-I'm interested in using computational methods to understand the pathophysiology of immune-driven diseases and to identify possible theraputic targets. 
-Lately, I've been involved in developing models for the identification of predictive biomarkers.   
+Hey there! I'm a third year PhD student at the Alan Turing Institute and Queen Mary University of London. I use Machine Learning to understand the hyperacute window in trauma and I'm interested in using computational methods to understand the pathophysiology of immune-driven diseases.
+Lately, I've been involved in developing models for the identification of therapeutic targets and predictive biomarkers.   
 
 ### Work experience
 
-#### Part-time ML engineer at Inflammatix (USA)
+#### Part-time ML engineer at [Inflammatix](https://inflammatix.com/ml/) (USA)
 I currently work as Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
 #### Intern at Inflammatix (USA)
-Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My worked focused on the development of a framework to harmonise different data types together.
+Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
 #### ML Learning Tutor at Cambridge Spark
-I tutor various ML courses at Cambridge Spark including: "Introduction to ML", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles models", "Data visualisation".
+Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en) including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
 
-- Summer School at Oxford
-- Summer School at MILA and CIFA
+#### ML Summer School at Oxford (2020)
+#### Deep Learning Summer School at MILA and CIFAR (2020)
+Selected among many applicants (acceptance rate is about 5%)
 
 ### Posters and talks
-- Poster Conference at ISMB
-- William Harvey Research Institute - Poster
+- Poster presentation at [ISMB/ECCB] (https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
+- Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
 
 ### Projects
