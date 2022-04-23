@@ -24,7 +24,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 ## Other Projects
 
-- Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
+- Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
 
 - Project on Explainable AI: [Communicating high-street bakery sales predictions using counterfactual explanations](https://zenodo.org/record/5562660#.YmLkSS8w2RY) (2021)
@@ -34,6 +34,9 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 2. Powerful predictive models are often difficult to interpret. Can we explain which features are important to a business owner?
 
 - [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020) Developed a tutorial to help other researchers at QMUL to use array jobs on the cluster and speed up their analyses.
+
+### Reports:
+- [Report for the Data Study group 2020] (https://zenodo.org/record/5562660#.YmLkSS8w2RY)
 
 
 ### Contacts
