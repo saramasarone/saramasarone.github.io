@@ -5,10 +5,9 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 ## Work experience
 
-*Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (USA):* I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
+**Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (USA):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
-#### Intern at Inflammatix (USA)
-Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
+**Intern at Inflammatix (USA):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
 #### ML Learning Tutor at Cambridge Spark
 Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en) including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
@@ -24,7 +23,7 @@ Tutored various Machine Learning courses at [Cambridge Spark](https://www.cambri
 
 ### Other Projects
 
-- Created a [package called EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
+- Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
 
 - Project on Explainable AI: [Communicating high-street bakery sales predictions using counterfactual explanations](https://zenodo.org/record/5562660#.YmLkSS8w2RY) (2021)
