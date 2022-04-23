@@ -26,7 +26,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 ## Other Projects
 
-- Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
+- Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy-paste lists of genes to their websites. Info can be found on PyPI. Docs can be found [here](https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
 
 - Project on Explainable AI: [Communicating high-street bakery sales predictions using counterfactual explanations](https://zenodo.org/record/5562660#.YmLkSS8w2RY) (2021)
