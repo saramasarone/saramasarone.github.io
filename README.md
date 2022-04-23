@@ -12,15 +12,17 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 **ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored various Machine Learning courses at Cambridge Spark including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
 
 **ML Summer School at Oxford (2020)** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
+
 **Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
 
-### Posters and talks
+## Posters and talks
+
 - Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing a proteomic indicator of injury severity"
 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
 
-### Other Projects
+## Other Projects
 
 - Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics)to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy paste lists of genes or proteins from and to their website. Full docs can be found on PyPI. Docs can be found [here] (https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
