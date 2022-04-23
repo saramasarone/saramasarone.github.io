@@ -1,7 +1,7 @@
 ## About me
 
 Hey there! I'm a third year PhD student at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My work entails the use of Machine Learning to understand what goes happens in the immune system of some trauma patients and why it gets dysregulated. More broadly, I'm interested in using data driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases.
-Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and Prof Pennington (https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
+Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington] (https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
 ## Work experience
 
