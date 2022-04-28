@@ -39,6 +39,7 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 
 ### Reports:
 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
+- More coming soon...
 
 
 ### Contacts
