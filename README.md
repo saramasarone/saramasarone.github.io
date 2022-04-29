@@ -42,7 +42,7 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 - More coming soon...
 
 
-### Contacts
+### Contacts :)
 
 - [Linkedin](https://www.linkedin.com/in/sara-masarone/)
 - [The Alan Turing Institute website](https://www.turing.ac.uk/people/doctoral-students/sara-masarone)
