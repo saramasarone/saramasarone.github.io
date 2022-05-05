@@ -33,7 +33,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 This challenge aimed to help CatsAi better serve their client (a large wholesaler) to estimate bakery orders to reduce waste and under delivery. The main tasks were to predict high-street sales based on meteorological factors and apply explainability techniques to effectively communicate their outputs to the client. Our research questions we wanted to answer were:
 
 1. Which features are predictive of sales (i.e. orders placed to the warehouse)?
-2. Powerful predictive models are often difficult to interpret. Can we explain which features are important to a business owner?
+2. Powerful predictive models are often difficult to interpret. Can we explain which features are important to a business owner? (XAI)
 
 - [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020) Developed a tutorial to help other researchers at QMUL to use array jobs on the cluster and speed up their analyses.
 
