@@ -37,7 +37,7 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 
 - [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020) Developed a tutorial to help other researchers at QMUL to use array jobs on the cluster and speed up their analyses.
 
-- Worked on a project for DementiaUK to implement models to understand and predict Dementia and Alzheimer uisng a large cohort of patients.
+- Worked on a project for [DementiaUK](https://www.dementiasplatform.uk) to implement models to understand and predict Dementia and Alzheimer using a large cohort of patients.
 
 ### Reports:
 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
