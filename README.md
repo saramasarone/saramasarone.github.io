@@ -30,7 +30,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 
 - Project on Explainable AI: [Communicating high-street bakery sales predictions using counterfactual explanations](https://zenodo.org/record/5562660#.YmLkSS8w2RY) (2021)
-This challenge aimed to help CatsAi better serve their client (a large wholesaler) to estimate bakery orders to reduce waste and under delivery. The main tasks were to predict high-street sales based on meteorological factors and apply explainability techniques to effectively communicate their outputs to the client. Our research questions we wanted to answer were:
+This challenge aimed to help CatsAi better serve their client (a large wholesaler) to estimate bakery orders to reduce waste and under delivery. The main tasks were to predict high-street sales based on meteorological factors and apply explainability techniques to effectively communicate their outputs to the client. Research questions we wanted to answer were:
 
 1. Which features are predictive of sales (i.e. orders placed to the warehouse)?
 2. Powerful predictive models are often difficult to interpret. Can we explain which features are important to a business owner? (XAI)
