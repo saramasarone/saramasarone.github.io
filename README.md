@@ -39,8 +39,9 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 
 - Contributed to a project for [Dementia Platform UK](https://www.dementiasplatform.uk) to implement models that allow clinicians to understand drivers of dementia and predict Alzheimer using a large cohort of patients.
 
-### Reports:
-- [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
+### Publications and Reports:
+- October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
+- October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
 - More coming soon...
 
 
