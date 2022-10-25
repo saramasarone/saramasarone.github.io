@@ -21,8 +21,12 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 - May 2021 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
 - October 2020 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
-
 ![This is an image](ISMB_poster_v5.pdf)
+
+### Publications and Reports:
+- October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
+- October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
+- More coming soon...
 
 ## Other Projects
 
@@ -38,11 +42,6 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 - [Tutorial for Apocrita (QMUL's cluster)](https://github.com/saramasarone/Running-kallisto-on-Apocrita) (2020) Developed a tutorial to help other researchers at QMUL to use array jobs on the cluster and speed up their analyses.
 
 - Contributed to a project for [Dementia Platform UK](https://www.dementiasplatform.uk) to implement models that allow clinicians to understand drivers of dementia and predict Alzheimer using a large cohort of patients.
-
-### Publications and Reports:
-- October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
-- October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
-- More coming soon...
 
 
 ### Contacts :)
