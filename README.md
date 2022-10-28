@@ -15,8 +15,9 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 **Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
 
-## Posters and talks
-- October 2022 - Talk at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) on regularisation methods for VAEs 
+## News and posters
+- October 2022 - NeurIPS paper accepted at AI for Science NeurIPS workshop! (conference in Nov-Dec)
+- October 2022 - Talk at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) on regularisation methods for VAEs (conference in Nov)
 - October 2022 - Poster at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) "A deep learning approach to integrate different data modalities and improve patient stratification in trauma" 
 - July 2021 - Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing of an objective proteomic indicator of trauma severity"
 - May 2021 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
