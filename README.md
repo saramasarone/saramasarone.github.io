@@ -5,7 +5,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 ## Work experience
 
-**Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (California,USA):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
+**Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (California, USA):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
 **Intern at Inflammatix (USA):** Interned during summer 2021 at Inflammatix as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
