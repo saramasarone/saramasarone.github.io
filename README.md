@@ -28,7 +28,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 ### Publications and Reports:
 - October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
 - October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
-- More coming soon...
+- More papers coming soon...
 
 ## Other Projects
 
