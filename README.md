@@ -9,7 +9,7 @@ Lately, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-t
 
 **Intern at Inflammatix (USA):** Interned during summer 2021 at Inflammatix as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
-**ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored various Machine Learning courses at Cambridge Spark including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles" and "Data visualisation".
+**ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored various Machine Learning courses at Cambridge Spark including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles", "Data visualisation", "Drata Wrangling", "Python and Pandas".
 
 **ML Summer School at Oxford (2020)** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
 
