@@ -16,6 +16,8 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 **Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
 
 ## News and posters
+- August 2023 - New Paper: "The benefits and pitfalls of machine learning for biomarker discovery"
+- August 2023 - Submitted PhD!!!
 - October 2022 - NeurIPS paper accepted at AI for Science NeurIPS workshop! (conference in Nov-Dec)
 - October 2022 - Talk at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) on regularisation methods for VAEs (conference in Nov)
 - October 2022 - Poster at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) "A deep learning approach to integrate different data modalities and improve patient stratification in trauma" 
