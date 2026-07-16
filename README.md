@@ -1,6 +1,10 @@
 
-## About me: Senior ML research/engineer at Ignota Labs - 2026
+## About me: Senior ML Researcher/Engineer at Ignota Labs - 2026
 I am currently a Senior ML Researcher/Engineer at Ignota Labs working on Machine Leraning and deep learning applications to drug discovery. As a company, we focus on using our internal tech to rescue failed drugs, allowing more drugs to reach the market! 
+
+![This is an image](images/rio-team.jpeg)
+
+![This is an image](images/rio-conf.jpeg)
 
 ## PhD Awarded!!! - 2023
 
@@ -16,6 +20,21 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 
 ## Work experience
 
+**Senior ML Researcher at [Ignota Labs](https://www.ignotalabs.ai/) - Drug toxicity** (February 2025 – present)
+- Contributed to company tech strategy and planning as part of the senior team, shaping direction across ML, bioinformatics and cheminformatics.
+- Developed and maintained molecular property prediction model on GCP, from prototype through to production.
+- Developed multi-omics models to identify and prioritise toxicity signatures, integrating molecular and biological data.
+- Worked on orchestrating agentic lab-in-the-loop systems, automating workflows across the lab and our internal ML pipeline.
+- Collaborated on patent scraping pipelines to support IP and competitive landscape analysis.
+- Managed external partnerships, grants and consortium projects, including Sanofi and OASIS, and line-managed and mentored an intern.
+
+**ML Researcher at Ignota Labs - Drug discovery** (April 2024 – February 2025)
+- Worked on ML for safety: e.g. GNN to predict drug–adverse events relationships.
+- Tech: Graph Neural Networks, Knowledge Graphs, Google Cloud/AWS, Python, Testing, Biological data processing, Omics.
+
+**ML Engineer at Ignota Labs (Internship) - Drug discovery** (November 2023 – April 2024)
+- Brought biological data modelling expertise into a cheminformatics team, developing ML models and
+
 **Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (California, USA):** I worked as part-time Machine Learning Engineer on Representation Learning. My work focused on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
 **Intern at Inflammatix (USA):** Interned during summer 2021 at Inflammatix as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
@@ -23,21 +42,7 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 **ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored various Machine Learning courses at Cambridge Spark including: "Introduction to Machine Learning", "Supervised Learning 1 and 2", "Unsupervised Learning", "Ensembles", "Data visualisation", "Drata Wrangling", "Python and Pandas".
 
 **ML Summer School at Oxford (2020)** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
-
-**Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
-
-
 ![This is an image](images/speech-qmul.jpeg)
-
-## News and posters
-- August 2023 - New Paper: "The benefits and pitfalls of machine learning for biomarker discovery"
-- August 2023 - Submitted PhD!!!
-- October 2022 - NeurIPS paper accepted at AI for Science NeurIPS workshop! (conference in Nov-Dec)
-- October 2022 - Talk at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) on regularisation methods for VAEs (conference in Nov)
-- October 2022 - Poster at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) "A deep learning approach to integrate different data modalities and improve patient stratification in trauma" 
-- July 2021 - Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing of an objective proteomic indicator of trauma severity"
-- May 2021 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
-- October 2020 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
 
 ### Publications and Reports:
@@ -47,6 +52,18 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 - NG, Sandra et al. (Apr. 2023). “The benefits and pitfalls of machine learning for biomarker discovery”. In: *Cell and Tissue Research*. [link](https://link.springer.com/article/10.1007/s00441-023-03816-z)
 - Masarone, Sara (Oct. 2022). “Representation Learning to Effectively Integrate and Interpret Omics Data”. In: *NeurIPS AI for Science workshop*. [pdf](https://openreview.net/pdf?id=FRE7FT9DDAj)
 - October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
+
+## News and posters
+- April 2026 ICLR in Rio: 2 first author posters on Agentic systems and benchmarks
+- June 2025 - Invited speaket at QMUL - Agentic AI in drug discovery
+- August 2023 - New Paper: "The benefits and pitfalls of machine learning for biomarker discovery"
+- August 2023 - Submitted PhD!!!
+- October 2022 - NeurIPS paper accepted at AI for Science NeurIPS workshop! (conference in Nov-Dec)
+- October 2022 - Talk at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) on regularisation methods for VAEs (conference in Nov)
+- October 2022 - Poster at [CSHL](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=22) "A deep learning approach to integrate different data modalities and improve patient stratification in trauma" 
+- July 2021 - Poster presentation at [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/posters.php?track=MLCSB&session=D): "Developing of an objective proteomic indicator of trauma severity"
+- May 2021 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
+- October 2020 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
 ## Other Projects
 - Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy-paste lists of genes to their websites. Info can be found on PyPI. Docs can be found [here](https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
