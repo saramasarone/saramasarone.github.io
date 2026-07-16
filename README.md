@@ -7,9 +7,12 @@ I am currently a Senior ML Researcher/Engineer at Ignota Labs working on Machine
 Hey there! I just submitted my PhD at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My PhD project focused on Machine Learning appliacations to Precision Medicine. In particular, my project looked at understanding the immune system of trauma patients in order to provide treatment when it gets dysregulated. More broadly, I'm interested in using data-driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases. I've previoulsy worked on multi-omics data integration appraches and representaton learning both in industry and academia.
 Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington](https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
-![This is an image](images/graduation-pic.jpegISMB_poster_v5.jpeg)
-
-![This is an image](images/table-graduation.jpeg)
+<table>
+  <tr>
+    <td><img src="images/graduation-pic.jpeg" alt="Graduation photo" width="400"/></td>
+    <td><img src="images/table-graduation.jpeg" alt="Graduation table photo" width="400"/></td>
+  </tr>
+</table>
 
 ## Work experience
 
@@ -40,7 +43,6 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 - More papers coming soon... (x2)
 
 ## Other Projects
-
 - Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy-paste lists of genes to their websites. Info can be found on PyPI. Docs can be found [here](https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
 
 
