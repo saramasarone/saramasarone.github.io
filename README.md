@@ -26,6 +26,9 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 
 **Deep Learning and Reinforcement Learning Summer School at MILA and CIFAR (2020)**
 
+
+![This is an image](images/speech-qmul.jpeg)
+
 ## News and posters
 - August 2023 - New Paper: "The benefits and pitfalls of machine learning for biomarker discovery"
 - August 2023 - Submitted PhD!!!
@@ -38,9 +41,12 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 
 
 ### Publications and Reports:
-- October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
+- Masarone, Sara, Katie Victoria Beckwith, et al. (Apr. 2026). “Agentic Orchestration of Drug Discovery ML Tools Under Partial Observability”. In: *Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026*. [pdf](https://openreview.net/pdf?id=oDxeL6719K)
+- Masarone, Sara, Alex Beeson, et al. (Apr. 2026). “Generating a Novel Dataset for Mechanisms of Drug-Induced Toxicity using LLM-supported tools”. In: *Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026*. [pdf](https://openreview.net/pdf?id=VoC7ZnHF5h)
+- Masarone, Sara, Katie V Beckwith, et al. (Apr. 2025). “Advancing predictive toxicology: overcoming hurdles and shaping the future”. In: *Digital Discovery*. [link](https://pubs.rsc.org/dd/article/4/2/303/846156/Advancing-predictive-toxicology-overcoming-hurdles)
+- NG, Sandra et al. (Apr. 2023). “The benefits and pitfalls of machine learning for biomarker discovery”. In: *Cell and Tissue Research*. [link](https://link.springer.com/article/10.1007/s00441-023-03816-z)
+- Masarone, Sara (Oct. 2022). “Representation Learning to Effectively Integrate and Interpret Omics Data”. In: *NeurIPS AI for Science workshop*. [pdf](https://openreview.net/pdf?id=FRE7FT9DDAj)
 - October 2021 - [Report for the Data Study group 2020](https://zenodo.org/record/5562660#.YmLkSS8w2RY)
-- More papers coming soon... (x2)
 
 ## Other Projects
 - Created a package called [EnrichOmics](https://github.com/saramasarone/enrich_omics) to automate workflowes in bioinformatics. The package allows to use the EnrichR and OpenTargets APIs to get quick results without having to copy-paste lists of genes to their websites. Info can be found on PyPI. Docs can be found [here](https://enrich-omics.readthedocs.io/en/latest/index.html)(2022) 
@@ -58,7 +64,6 @@ This challenge aimed to help CatsAi better serve their client (a large wholesale
 
 
 ### Contacts :)
-
 - [Linkedin](https://www.linkedin.com/in/sara-masarone/)
 - [The Alan Turing Institute website](https://www.turing.ac.uk/people/doctoral-students/sara-masarone)
 - [QMUL Institute of Applied Data Science](https://www.applieddatascience.qmul.ac.uk/people/smasarone)
