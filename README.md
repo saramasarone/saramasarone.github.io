@@ -1,10 +1,14 @@
 
 ## About me: Senior ML Researcher/Engineer at Ignota Labs - 2026
-I am currently a Senior ML Researcher/Engineer at Ignota Labs working on Machine Leraning and deep learning applications to drug discovery. As a company, we focus on using our internal tech to rescue failed drugs, allowing more drugs to reach the market! 
+I am currently a Senior ML Researcher/Engineer at Ignota Labs, working on Machine Learning and deep learning applications to drug discovery. In particular, I have been working on Molecular Property Prediction models and agentic systems to help us identify anf fix more drugs.
+
+As a company, we focus on using our internal tech to rescue failed drugs, allowing more molecules to reach the market, thus benefitting more patients! 
+
+You can check out our latest workshop papers presented at ICLR in April (see pic below)!
 
 ![This is an image](images/rio-team.jpeg)
 
-![This is an image](images/rio-conf.jpeg)
+![This is an image](images/conf-team.jpeg)
 
 ## PhD Awarded!!! - 2023
 
