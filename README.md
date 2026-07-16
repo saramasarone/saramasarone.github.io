@@ -7,6 +7,9 @@ I am currently a Senior ML Researcher/Engineer at Ignota Labs working on Machine
 Hey there! I just submitted my PhD at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My PhD project focused on Machine Learning appliacations to Precision Medicine. In particular, my project looked at understanding the immune system of trauma patients in order to provide treatment when it gets dysregulated. More broadly, I'm interested in using data-driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases. I've previoulsy worked on multi-omics data integration appraches and representaton learning both in industry and academia.
 Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington](https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
+![This is an image](images/graduation-pic.jpegISMB_poster_v5.jpeg)
+![This is an image](images/table-graduation.jpeg)
+
 ## Work experience
 
 **Part-time ML Engineer at [Inflammatix](https://inflammatix.com/ml/) (California, USA):** I worked as part-time Machine Learning Engineer on Representation Learning. My work focused on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
