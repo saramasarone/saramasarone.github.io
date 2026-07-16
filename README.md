@@ -8,6 +8,7 @@ Hey there! I just submitted my PhD at the [Alan Turing Institute](https://www.tu
 Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington](https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
 ![This is an image](images/graduation-pic.jpegISMB_poster_v5.jpeg)
+
 ![This is an image](images/table-graduation.jpeg)
 
 ## Work experience
@@ -32,7 +33,6 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 - May 2021 - Talk at the Blizard Institute: "Data driven approaches to understand the hyperacute window of trauma patients"
 - October 2020 - Poster at William Harvey Research Institute Annual Review - "What similarities are there between trauma, sepsis and covid?"
 
-![This is an image](ISMB_poster_v5.pdf)
 
 ### Publications and Reports:
 - October 2022 - [NeurIPS AI for Science workshop 2022](https://openreview.net/pdf?id=FRE7FT9DDAj)
