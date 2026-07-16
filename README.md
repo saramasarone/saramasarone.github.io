@@ -1,6 +1,6 @@
 
 ## About me: Senior ML Researcher/Engineer at Ignota Labs - 2026
-I am currently a Senior ML Researcher/Engineer at Ignota Labs, working on Machine Learning and deep learning applications to drug discovery. In particular, I have been working on Molecular Property Prediction models and agentic systems to help us identify anf fix more drugs.
+Hi! I am a Senior ML Researcher/Engineer at Ignota Labs, working on Machine Learning and deep learning applications to drug discovery. In particular, I have been working on Molecular Property Prediction models and agentic systems to help us identify anf fix more drugs.
 
 As a company, we focus on using our internal tech to rescue failed drugs, allowing more molecules to reach the market, thus benefitting more patients! 
 
@@ -12,7 +12,7 @@ You can check out our latest workshop papers presented at ICLR in April (see pic
 
 ## PhD Awarded!!! - 2023
 
-Hey there! I just submitted my PhD at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk). My PhD project focused on Machine Learning appliacations to Precision Medicine. In particular, my project looked at understanding the immune system of trauma patients in order to provide treatment when it gets dysregulated. More broadly, I'm interested in using data-driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases. I've previoulsy worked on multi-omics data integration appraches and representaton learning both in industry and academia.
+I submitted my PhD at the [Alan Turing Institute](https://www.turing.ac.uk) and [Queen Mary University of London](https://www.qmul.ac.uk) in November 2023. My PhD project focused on Machine Learning appliacations to Precision Medicine. In particular, my project looked at understanding the immune system of trauma patients in order to provide treatment when it gets dysregulated. More broadly, I'm interested in using data-driven methods (both supervised and unsupervised) to disentangle complex biological signals and understand the pathophysiology of immune-driven diseases. I've previoulsy worked on multi-omics data integration appraches and representaton learning both in industry and academia.
 Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our-team/profiles/barnes-michael.html) and [Prof Pennington](https://www.qmul.ac.uk/blizard/all-staff/profiles/daniel-j-pennington.html), I've also been involved in developing predictive models for the identification of therapeutic targets/predictive biomarkers to provide diagnosis and treatment to patients affected by these conditions. 
 
 <table>
@@ -21,6 +21,8 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
     <td><img src="images/table-graduation.jpeg" alt="Graduation table photo" width="400"/></td>
   </tr>
 </table>
+
+---
 
 ## Work experience
 
