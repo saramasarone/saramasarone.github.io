@@ -1,5 +1,5 @@
 
-## About me: Senior ML Researcher/Engineer at Ignota Labs - 2026
+## About me: Senior ML Researcher/Engineer at Ignota Labs - 2023 - 2026
 Hi! I'm an Senior ML engineer/researcher building applied AI systems for drug discovery, currently at a biotech startup. My work spans foundation-model-based molecular property prediction, where I've worked on models that leverage large-scale pretraining to improve generalisation across chemical space, and agentic systems for target identification and review, automating parts of the early discovery pipeline that traditionally required manual literature and data triage.
 
 I've also led multi-omics data integration efforts, partnering with external providers like OASIS and Cytochroma to combine heterogeneous biological data sources into unified representations that support downstream modeling and decision-making. This work sits at the intersection of ML engineering and computational biology, requiring both rigorous model development and close collaboration with wet-lab and data science teams.
