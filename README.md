@@ -28,8 +28,8 @@ Recently, under the supervision of [Prof Barnes](https://www.qmul.ac.uk/c4tb/our
 ## Work experience
 
 **Senior ML Researcher at [Ignota Labs](https://www.ignotalabs.ai/) - Drug toxicity** (February 2025 – present)
-- Contributed to company tech strategy and planning as part of the senior team, shaping direction across ML, bioinformatics and cheminformatics.
 - Developed and maintained molecular property prediction model on GCP, from prototype through to production.
+- Contributed to company tech strategy and planning as part of the senior team, shaping direction across ML, bioinformatics and cheminformatics.
 - Developed multi-omics models to identify and prioritise toxicity signatures, integrating molecular and biological data.
 - Worked on orchestrating agentic lab-in-the-loop systems, automating workflows across the lab and our internal ML pipeline.
 - Collaborated on patent scraping pipelines to support IP and competitive landscape analysis.
